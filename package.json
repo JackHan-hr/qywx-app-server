@@ -1,0 +1,30 @@
+{
+  "name": "app_server",
+  "version": "1.0.0",
+  "description": "qywx_node_server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JackHan-hr/qywx-app-server.git"
+  },
+  "author": "jackhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackHan-hr/qywx-app-server/issues"
+  },
+  "homepage": "https://github.com/JackHan-hr/qywx-app-server#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "log4js": "^6.0.0",
+    "mongoose": "^5.7.11",
+    "redis": "^2.8.0",
+    "serve-static": "^1.14.1",
+    "xml2js": "^0.4.22"
+  }
+}
