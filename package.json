@@ -21,7 +21,7 @@
     "body-parser": "^1.19.0",
     "colors": "^1.4.0",
     "express": "^4.17.1",
-    "log4js": "^6.0.0",
+    "log4js": "^6.4.0",
     "mongoose": "^5.7.11",
     "redis": "^2.8.0",
     "serve-static": "^1.14.1",
