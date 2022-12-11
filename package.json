@@ -20,7 +20,7 @@
     "axios": "^0.19.0",
     "body-parser": "^1.19.0",
     "colors": "^1.4.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "log4js": "^6.0.0",
     "mongoose": "^5.7.11",
     "redis": "^2.8.0",
